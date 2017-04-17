@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Цены", 
+		"/prices/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новые группы", 
+		"/new_groups/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Как записаться", 
+		"/how_to_apply/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"График", 
+		"/schedule/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вопросы", 
+		"/questions_and_answers/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
