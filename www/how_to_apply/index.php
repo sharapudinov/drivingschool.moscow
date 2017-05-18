@@ -17,7 +17,7 @@ $APPLICATION->SetTitle("Условия поступления в автошко�
         </div>
     </div>
     <p><strong>Важно:</strong> К практическим занятиям учащиеся допускаются только при наличии медицинской справки.</p>
-    <div class="pbs-row" data-width="full-width" style="min-height: 582px; position: relative; margin-top: 55px; width: 1680px; max-width: 1680px; margin-left: 0px; margin-right: 0px; left: -112.5px;">
+    <div class="pbs-row" data-width="full-width" style="min-height: 582px; position: relative; margin-top: 55px;  margin-left: 0px; margin-right: 0px; ">
         <div class="pbs-col" style="flex-basis: 15.1777%; padding-right: 8px;">
             <p data-placeholder="Click here to add text">
             </p></div>

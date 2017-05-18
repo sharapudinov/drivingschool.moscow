@@ -1,4 +1,8 @@
-<?$arTemplate = Array(
-	"NAME"=>"drivingschool", 
-	"DESCRIPTION"=>""
-);?>
+<?
+$arTemplate = array (
+  'NAME' => 'drivingschool',
+  'DESCRIPTION' => '',
+  'SORT' => '',
+  'TYPE' => '',
+);
+?>

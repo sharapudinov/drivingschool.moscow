@@ -4,7 +4,7 @@ $APPLICATION->SetTitle("Цены на обучение в автошколе А�
 ?>
 
     <div class="pbs-main-wrapper" style="overflow-x: visible;"><p style="margin-bottom: 9px;">Цены актуальны до 28.06.2017 г.</p>
-        <div class="pbs-row" data-width="full-width-retain-content" style="min-height: 200px; position: relative; padding-top: 0px !important; padding-bottom: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; width: 1680px; max-width: 1680px; margin-left: 0px; margin-right: 0px; left: -112.5px; padding-left: 112.5px; padding-right: 112.5px;">
+        <div class="pbs-row" data-width="full-width-retain-content" style="min-height: 200px; position: relative; padding-top: 0px !important; padding-bottom: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; margin-left: 0px; margin-right: 0px; ">
             <div class="pbs-col" style="flex-basis: 56.5043%; padding: 0px !important; margin: 0px !important;  margin-left: 0px !important;">
                 <p><img src="/upload/images/page/sovs2.jpg" alt="стоимость обучения в автошколе аспект" width="1514" height="1112" class="alignnone size-full wp-image-932" srcset="/upload/images/page/sovs2.jpg 1514w, /upload/images/page/sovs2.jpg 300w, /upload/images/page/sovs2.jpg 768w, /upload/images/page/sovs2.jpg 1024w" sizes="(max-width: 1514px) 100vw, 1514px">
                 </p></div>
@@ -22,7 +22,7 @@ $APPLICATION->SetTitle("Цены на обучение в автошколе А�
             <div class="pbs-col" style="flex-basis: 25%; padding-bottom: 30px !important; padding-top: 0px !important; padding-left: 0px !important; padding-right: 0px !important; margin-left: 30px; margin-right: 15px;">
                 <p><img alt="Скидка студентам" class="aligncenter size-full wp-image-363" height="523" src="/upload/images/page/ss1.png" width="500" srcset="/upload/images/page/ss1.png 500w, /upload/images/page/ss1.png 287w" sizes="(max-width: 500px) 100vw, 500px"></p>
             </div>
-            <div class="pbs-col" style="flex-basis: 25%; padding-bottom: 30px !important; padding-top: 0px !important; padding-left: 0px !important; padding-right: 0px !important; margin-left: 15px; margin-right: 30px;">
+            <div class="pbs-col dn" style="flex-basis: 25%; padding-bottom: 30px !important; padding-top: 0px !important; padding-left: 0px !important; padding-right: 0px !important; margin-left: 15px; margin-right: 30px;">
                 <p><img alt="стоимость мед справки для автошколы" class="aligncenter size-full wp-image-152" height="523" src="/upload/images/page/smsdas1.jpg" width="500" srcset="/upload/images/page/smsdas1.jpg 500w, /upload/images/page/smsdas1.jpg 287w" sizes="(max-width: 500px) 100vw, 500px"></p>
             </div>
             <div class="pbs-col" style="flex-basis: 25%; padding-bottom: 30px !important; padding-top: 0px !important; padding-left: 0px !important; padding-right: 0px !important;">
