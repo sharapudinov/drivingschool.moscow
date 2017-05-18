@@ -4,7 +4,7 @@ $APPLICATION->SetTitle("Набор в новые группы");
 ?>
 
     <div class="pbs-main-wrapper" style="overflow-x: visible;"><p>Информация регулярно обновляется.</p>
-        <div class="pbs-row" data-width="full-width-retain-content" style="min-height: 200px; position: relative; padding-top: 0px !important; padding-bottom: 0px !important; width: 1680px; max-width: 1680px; margin-left: 0px; margin-right: 0px; left: -112.5px; padding-left: 112.5px; padding-right: 488.75px;">
+        <div class="pbs-row" data-width="full-width-retain-content" style="min-height: 200px; position: relative; padding-top: 0px !important; padding-bottom: 0px !important;  margin-left: 0px; margin-right: 0px; ">
             <div class="pbs-col" style="flex-basis: 50%; border: 5px solid #fff; padding: 0px !important; magrin: 0px !important; magrin-left: 0px !important;">
                 <table bgcolor="#f4f4f4" style="border-style: hidden !important;">
                     <tbody>
@@ -73,7 +73,7 @@ $APPLICATION->SetTitle("Набор в новые группы");
             </div>
         </div>
         <p><i class="fa fa-car" aria-hidden="true"></i> Практические занятия проводятся по индивидуальному графику.</p>
-        <div class="pbs-row" data-width="full-width" style="min-height: 582px; position: relative; margin-top: 55px; width: 1680px; max-width: 1680px; margin-left: 0px; margin-right: 0px; left: -112.5px;">
+        <div class="pbs-row" data-width="full-width" style="min-height: 582px; position: relative; margin-top: 55px;  margin-left: 0px; margin-right: 0px;">
             <div class="pbs-col" style="flex-basis: 15.1777%; padding-right: 8px;"></div>
             <div class="pbs-col" style="flex-basis: 57.9555%; padding-left: 0px; padding-right: 0px; padding-bottom: 0px; background-color: rgb(255, 255, 255);">
                 <p><img src="/upload/images/page/Оставьте-заявку-1.png" alt="Оставьте-заявку-на-обучение-в-автошколу" width="300" height="181" class="alignnone size-full wp-image-293"><br>

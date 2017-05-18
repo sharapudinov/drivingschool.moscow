@@ -3,8 +3,8 @@
 IncludeTemplateLangFile(__FILE__);
 $curl = $APPLICATION->GetCurPage(); //$_SERVER["REQUEST_URI"];
 $side_bar_page = array(
-    "/new_groups/",
-    "/schedule/"
+//    "/new_groups/",
+//    "/schedule/"
 );
 
 ?>

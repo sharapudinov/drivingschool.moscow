@@ -24,11 +24,11 @@ IncludeTemplateLangFile(__FILE__);
 <br/><br/>
 <? if(IsMainPage()){?>
     <div class="pbs-row" style="min-height: 200px; padding-top: 30px;">
-        <div class="pbs-col" style="flex-basis: 25%;"><img class="alignnone size-full wp-image-910" src="<?=SITE_TEMPLATE_PATH?>/images/1111.png" alt="" width="1139" height="1600" srcset="<?=SITE_TEMPLATE_PATH?>/images/1111.png 1139w, <?=SITE_TEMPLATE_PATH?>/images/1111-214x300.png 214w, <?=SITE_TEMPLATE_PATH?>/images/1111-768x1079.png 768w, <?=SITE_TEMPLATE_PATH?>/images/1111-729x1024.png 729w" sizes="(max-width: 1139px) 100vw, 1139px"></div>
-        <div class="pbs-col" style="flex-basis: 25%;"><img class="alignnone size-full wp-image-911" src="<?=SITE_TEMPLATE_PATH?>/images/333.png" alt="" width="1124" height="1600" srcset="<?=SITE_TEMPLATE_PATH?>/images/333.png, <?=SITE_TEMPLATE_PATH?>/images/333-211x300.png 211w, <?=SITE_TEMPLATE_PATH?>/images/333-768x1093.png 768w, <?=SITE_TEMPLATE_PATH?>/images/333-719x1024.png 719w" sizes="(max-width: 1124px) 100vw, 1124px"></div>
-        <div class="pbs-col" style="flex-basis: 25%;"><img class="alignnone size-full wp-image-912" src="<?=SITE_TEMPLATE_PATH?>/images/222.png" alt="" width="1137" height="1600" srcset="<?=SITE_TEMPLATE_PATH?>/images/222.png 1137w, <?=SITE_TEMPLATE_PATH?>/images/222-213x300.png 213w, <?=SITE_TEMPLATE_PATH?>/images/222-768x1081.png 768w, <?=SITE_TEMPLATE_PATH?>/images/222-728x1024.png 728w" sizes="(max-width: 1137px) 100vw, 1137px"></div>
-        <div class="pbs-col" style="flex-basis: 25%;"><img class="alignnone size-full wp-image-913" src="<?=SITE_TEMPLATE_PATH?>/images/5555.jpg" alt="" width="1184" height="1730" srcset="<?=SITE_TEMPLATE_PATH?>/images/5555.jpg 1184w, <?=SITE_TEMPLATE_PATH?>/images/5555-205x300.jpg 205w, <?=SITE_TEMPLATE_PATH?>/images/5555-768x1122.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/5555-701x1024.jpg 701w" sizes="(max-width: 1184px) 100vw, 1184px"></div>
-        <div class="pbs-col" style="flex-basis: 25%;"><img class="alignnone size-full wp-image-914" src="<?=SITE_TEMPLATE_PATH?>/images/Диплом.jpg" alt="" width="800" height="1147" srcset="<?=SITE_TEMPLATE_PATH?>/images/Диплом.jpg 800w, <?=SITE_TEMPLATE_PATH?>/images/Диплом-209x300.jpg 209w, <?=SITE_TEMPLATE_PATH?>/images/Диплом-768x1101.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/Диплом-714x1024.jpg 714w" sizes="(max-width: 800px) 100vw, 800px"></div>
+        <div class="pbs-col" style="flex-basis: 25%;"><img class="alignnone size-full wp-image-910" src="<?=SITE_TEMPLATE_PATH?>/images/1111.png" alt="" width="1139" height="1600" srcset="<?=SITE_TEMPLATE_PATH?>/images/1111.png 1139w, <?=SITE_TEMPLATE_PATH?>/images/1111.png 214w, <?=SITE_TEMPLATE_PATH?>/images/1111.png 768w, <?=SITE_TEMPLATE_PATH?>/images/1111.png 729w" sizes="(max-width: 1139px) 100vw, 1139px"></div>
+        <div class="pbs-col" style="flex-basis: 25%;"><img class="alignnone size-full wp-image-911" src="<?=SITE_TEMPLATE_PATH?>/images/333.png" alt="" width="1124" height="1600" srcset="<?=SITE_TEMPLATE_PATH?>/images/333.png, <?=SITE_TEMPLATE_PATH?>/images/333.png 211w, <?=SITE_TEMPLATE_PATH?>/images/333.png 768w, <?=SITE_TEMPLATE_PATH?>/images/333.png 719w" sizes="(max-width: 1124px) 100vw, 1124px"></div>
+        <div class="pbs-col" style="flex-basis: 25%;"><img class="alignnone size-full wp-image-912" src="<?=SITE_TEMPLATE_PATH?>/images/222.png" alt="" width="1137" height="1600" srcset="<?=SITE_TEMPLATE_PATH?>/images/222.png 1137w, <?=SITE_TEMPLATE_PATH?>/images/222.png 213w, <?=SITE_TEMPLATE_PATH?>/images/222.png 768w, <?=SITE_TEMPLATE_PATH?>/images/222.png 728w" sizes="(max-width: 1137px) 100vw, 1137px"></div>
+        <div class="pbs-col" style="flex-basis: 25%;"><img class="alignnone size-full wp-image-913" src="<?=SITE_TEMPLATE_PATH?>/images/5555.jpg" alt="" width="1184" height="1730" srcset="<?=SITE_TEMPLATE_PATH?>/images/5555.jpg 1184w, <?=SITE_TEMPLATE_PATH?>/images/5555.jpg 205w, <?=SITE_TEMPLATE_PATH?>/images/5555.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/5555.jpg 701w" sizes="(max-width: 1184px) 100vw, 1184px"></div>
+        <div class="pbs-col" style="flex-basis: 25%;"><img class="alignnone size-full wp-image-914" src="<?=SITE_TEMPLATE_PATH?>/images/Диплом.jpg" alt="" width="800" height="1147" srcset="<?=SITE_TEMPLATE_PATH?>/images/Диплом.jpg 800w, <?=SITE_TEMPLATE_PATH?>/images/Диплом.jpg 209w, <?=SITE_TEMPLATE_PATH?>/images/Диплом.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/Диплом.jpg 714w" sizes="(max-width: 800px) 100vw, 800px"></div>
     </div>
 <?}?>
 </div>
@@ -90,5 +90,35 @@ IncludeTemplateLangFile(__FILE__);
 <a href="/" id="toTop" style="display: none;"><span></span></a>
 <!--<script type="text/javascript" src="--><?//=SITE_TEMPLATE_PATH?><!--/js/cherry-post-formats.min.js"></script>-->
 <script type="text/javascript" src="<?=SITE_TEMPLATE_PATH?>/js/wp-embed.min.js"></script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44666704 = new Ya.Metrika({
+                    id:44666704,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44666704" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 </body>
 </html>
