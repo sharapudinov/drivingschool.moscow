@@ -3,8 +3,8 @@
 IncludeTemplateLangFile(__FILE__);
 $curl = $APPLICATION->GetCurPage(); //$_SERVER["REQUEST_URI"];
 $side_bar_page = array(
-    "/new_groups/",
-    "/schedule/"
+//    "/new_groups/",
+//    "/schedule/"
 );
 
 ?>
@@ -14,6 +14,14 @@ $side_bar_page = array(
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?$APPLICATION->ShowTitle()?></title>
     <?$APPLICATION->ShowHead();?>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+    
     <link rel="stylesheet" id="jquery-swiper-css" href="<?=SITE_TEMPLATE_PATH?>/css/swiper.min.css" type="text/css" media="all">
     <link rel="stylesheet" id="contact-form-7-css" href="<?=SITE_TEMPLATE_PATH?>/css/styles.css" type="text/css" media="all">
     <link rel="stylesheet" id="font-awesome-four-css" href="<?=SITE_TEMPLATE_PATH?>/css/font-awesome.min.css" type="text/css" media="all">
