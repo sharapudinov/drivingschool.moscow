@@ -1,0 +1,16 @@
+.dn{
+    display: none !important;
+}
+
+@media screen and (max-width: 750px) {
+    .pbs-col img{
+
+    }
+
+    .entry-content table th, .entry-content table td{
+        font-size: 14px !important;
+    }
+    .wpcf7 .wpcf7-form-control-wrap input{
+        margin-bottom: 0px;
+    }
+}
