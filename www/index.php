@@ -110,50 +110,67 @@ $APPLICATION->SetTitle("Автошкола Аспект — одна из луч
     <p><img class="size-full wp-image-878 aligncenter" style="margin-bottom: 35px; margin-top: 0px;" src="<?=SITE_TEMPLATE_PATH?>/images/op1.png" alt="" width="725" height="107" srcset="<?=SITE_TEMPLATE_PATH?>/images/op1.png 725w, <?=SITE_TEMPLATE_PATH?>/images/обновленный-парк-300x44.png 300w" sizes="(max-width: 725px) 100vw, 725px"></p>
 
     <p><img class="size-full wp-image-879 aligncenter" style="padding-bottom: 50px; margin-bottom: 0px;" src="<?=SITE_TEMPLATE_PATH?>/images/ммарки-и-модели-машин-в-автошколе.png" alt="" srcset="<?=SITE_TEMPLATE_PATH?>/images/ммарки-и-модели-машин-в-автошколе.png 1248w, <?=SITE_TEMPLATE_PATH?>/images/ммарки-и-модели-машин-в-автошколе.png 300w, <?=SITE_TEMPLATE_PATH?>/images/ммарки-и-модели-машин-в-автошколе.png 768w, <?=SITE_TEMPLATE_PATH?>/images/ммарки-и-модели-машин-в-автошколе.png 1024w" sizes="(max-width: 1248px) 100vw, 1248px"></p>
-    <div class="pbs-row" data-width="full-width-retain-content" style="min-height: 200px; margin-top: -30px; position: relative; margin-left: 0px; margin-right: 0px; ">
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/6.jpg" xlink="href" data-rel="lightbox-3" title=""> <img class="aligncenter wp-image-864 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/6.jpg" alt="" width="1200" height="800" srcset="<?=SITE_TEMPLATE_PATH?>/images/6.jpg 1200w, <?=SITE_TEMPLATE_PATH?>/images/6.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/6.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/6.jpg 1024w, <?=SITE_TEMPLATE_PATH?>/images/6.jpg 1170w" sizes="(max-width: 1200px) 100vw, 1200px"> </a></p>
-        </div>
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/2.jpg" xlink="href" data-rel="lightbox-4" title=""> <img class="aligncenter wp-image-865 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/2.jpg" alt="" width="1200" height="800" srcset="<?=SITE_TEMPLATE_PATH?>/images/2.jpg 1200w, <?=SITE_TEMPLATE_PATH?>/images/2.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/2.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/2.jpg 1024w, <?=SITE_TEMPLATE_PATH?>/images/2.jpg 1170w" sizes="(max-width: 1200px) 100vw, 1200px"> </a></p>
-        </div>
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/4.jpg" xlink="href" data-rel="lightbox-5" title=""> <img class="aligncenter wp-image-866 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/4.jpg" alt="" width="1200" height="800" srcset="<?=SITE_TEMPLATE_PATH?>/images/4.jpg 1200w, <?=SITE_TEMPLATE_PATH?>/images/4.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/4.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/4.jpg 1024w, <?=SITE_TEMPLATE_PATH?>/images/4.jpg 1170w" sizes="(max-width: 1200px) 100vw, 1200px"> </a></p>
-        </div>
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/10.jpg" xlink="href" data-rel="lightbox-6" title=""> <img class="aligncenter wp-image-867 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/10.jpg" alt="" width="1200" height="800" srcset="<?=SITE_TEMPLATE_PATH?>/images/10.jpg 1200w, <?=SITE_TEMPLATE_PATH?>/images/10.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/10.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/10.jpg 1024w, <?=SITE_TEMPLATE_PATH?>/images/10.jpg 1170w" sizes="(max-width: 1200px) 100vw, 1200px"> </a></p>
-        </div>
-    </div>
 
-    <div class="pbs-row" data-width="full-width-retain-content" style="min-height: 200px; margin-top: -30px; position: relative; margin-left: 0px; margin-right: 0px; ">
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/6.jpg" xlink="href" data-rel="lightbox-3" title=""> <img class="aligncenter wp-image-864 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/6.jpg" alt="" width="1200" height="800" srcset="<?=SITE_TEMPLATE_PATH?>/images/6.jpg 1200w, <?=SITE_TEMPLATE_PATH?>/images/6.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/6.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/6.jpg 1024w, <?=SITE_TEMPLATE_PATH?>/images/6.jpg 1170w" sizes="(max-width: 1200px) 100vw, 1200px"> </a></p>
-        </div>
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/2.jpg" xlink="href" data-rel="lightbox-4" title=""> <img class="aligncenter wp-image-865 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/2.jpg" alt="" width="1200" height="800" srcset="<?=SITE_TEMPLATE_PATH?>/images/2.jpg 1200w, <?=SITE_TEMPLATE_PATH?>/images/2.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/2.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/2.jpg 1024w, <?=SITE_TEMPLATE_PATH?>/images/2.jpg 1170w" sizes="(max-width: 1200px) 100vw, 1200px"> </a></p>
-        </div>
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/4.jpg" xlink="href" data-rel="lightbox-5" title=""> <img class="aligncenter wp-image-866 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/4.jpg" alt="" width="1200" height="800" srcset="<?=SITE_TEMPLATE_PATH?>/images/4.jpg 1200w, <?=SITE_TEMPLATE_PATH?>/images/4.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/4.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/4.jpg 1024w, <?=SITE_TEMPLATE_PATH?>/images/4.jpg 1170w" sizes="(max-width: 1200px) 100vw, 1200px"> </a></p>
-        </div>
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/10.jpg" xlink="href" data-rel="lightbox-6" title=""> <img class="aligncenter wp-image-867 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/10.jpg" alt="" width="1200" height="800" srcset="<?=SITE_TEMPLATE_PATH?>/images/10.jpg 1200w, <?=SITE_TEMPLATE_PATH?>/images/10.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/10.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/10.jpg 1024w, <?=SITE_TEMPLATE_PATH?>/images/10.jpg 1170w" sizes="(max-width: 1200px) 100vw, 1200px"> </a></p>
-        </div>
-    </div>
-
-    <div class="pbs-row" data-width="full-width-retain-content" style="padding-bottom: 50px; min-height: 200px; position: relative; margin-left: 0px; margin-right: 0px;">
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a href="<?=SITE_TEMPLATE_PATH?>/images/12.jpg" xlink="href" data-rel="lightbox-11" title=""> <img class="aligncenter wp-image-868 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/12.jpg" alt="" width="1200" height="800" srcset="<?=SITE_TEMPLATE_PATH?>/images/12.jpg 1200w, <?=SITE_TEMPLATE_PATH?>/images/12.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/12.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/12.jpg 1024w, <?=SITE_TEMPLATE_PATH?>/images/12.jpg 1170w" sizes="(max-width: 1200px) 100vw, 1200px"> </a></p>
-        </div>
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/19.jpg" xlink="href" data-rel="lightbox-12" title=""> <img class="aligncenter wp-image-870 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/19.jpg" alt="" width="1200" height="800" srcset="<?=SITE_TEMPLATE_PATH?>/images/19.jpg 1200w, <?=SITE_TEMPLATE_PATH?>/images/19.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/19.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/19.jpg 1024w, <?=SITE_TEMPLATE_PATH?>/images/19.jpg 1170w" sizes="(max-width: 1200px) 100vw, 1200px"> </a></p>
-        </div>
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/26.jpg" xlink="href" data-rel="lightbox-13" title=""> <img class="aligncenter wp-image-875 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/26.jpg" alt="" width="4928" height="3264" srcset="<?=SITE_TEMPLATE_PATH?>/images/26.jpg 4928w, <?=SITE_TEMPLATE_PATH?>/images/26.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/26.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/26.jpg 1024w" sizes="(max-width: 4928px) 100vw, 4928px"> </a></p>
-        </div>
-        <div class="pbs-col" style="flex-basis: 25%; margin: 0px !important; padding: 15px;">
-            <p><a target="_blank" href="<?=SITE_TEMPLATE_PATH?>/images/13.jpg" xlink="href" data-rel="lightbox-14" title=""> <img class="aligncenter wp-image-869 size-full" src="<?=SITE_TEMPLATE_PATH?>/images/13.jpg" alt="" width="4928" height="3264" srcset="<?=SITE_TEMPLATE_PATH?>/images/13.jpg 4928w, <?=SITE_TEMPLATE_PATH?>/images/13.jpg 300w, <?=SITE_TEMPLATE_PATH?>/images/13.jpg 768w, <?=SITE_TEMPLATE_PATH?>/images/13.jpg 1024w" sizes="(max-width: 4928px) 100vw, 4928px"> </a></p>
-        </div>
-    </div>
+<?$APPLICATION->IncludeComponent(
+    "bitrix:photo.section",
+    "drivingschool",
+    array(
+        "COMPONENT_TEMPLATE" => "drivingschool",
+        "IBLOCK_TYPE" => "photos",
+        "IBLOCK_ID" => "6",
+        "SECTION_ID" => "6",
+        "SECTION_CODE" => "",
+        "SECTION_USER_FIELDS" => array(
+            0 => "",
+            1 => "",
+        ),
+        "ELEMENT_SORT_FIELD" => "sort",
+        "ELEMENT_SORT_ORDER" => "asc",
+        "FILTER_NAME" => "arrFilter",
+        "FIELD_CODE" => array(
+            0 => "",
+            1 => "",
+        ),
+        "PROPERTY_CODE" => array(
+            0 => "",
+            1 => "",
+        ),
+        "PAGE_ELEMENT_COUNT" => "16",
+        "LINE_ELEMENT_COUNT" => "4",
+        "SECTION_URL" => "",
+        "DETAIL_URL" => "",
+        "AJAX_MODE" => "N",
+        "AJAX_OPTION_JUMP" => "N",
+        "AJAX_OPTION_STYLE" => "Y",
+        "AJAX_OPTION_HISTORY" => "N",
+        "AJAX_OPTION_ADDITIONAL" => "",
+        "CACHE_TYPE" => "A",
+        "CACHE_TIME" => "36000000",
+        "CACHE_FILTER" => "N",
+        "CACHE_GROUPS" => "Y",
+        "META_KEYWORDS" => "-",
+        "META_DESCRIPTION" => "-",
+        "BROWSER_TITLE" => "-",
+        "SET_TITLE" => "Y",
+        "SET_LAST_MODIFIED" => "N",
+        "ADD_SECTIONS_CHAIN" => "Y",
+        "COMPOSITE_FRAME_MODE" => "A",
+        "COMPOSITE_FRAME_TYPE" => "AUTO",
+        "PAGER_TEMPLATE" => ".default",
+        "DISPLAY_TOP_PAGER" => "N",
+        "DISPLAY_BOTTOM_PAGER" => "Y",
+        "PAGER_TITLE" => "Фотографии",
+        "PAGER_SHOW_ALWAYS" => "N",
+        "PAGER_DESC_NUMBERING" => "N",
+        "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+        "PAGER_SHOW_ALL" => "N",
+        "PAGER_BASE_LINK_ENABLE" => "N",
+        "SET_STATUS_404" => "N",
+        "SHOW_404" => "N",
+        "MESSAGE_404" => ""
+    ),
+    false
+);?>
 
     <div class="pbs-row" data-width="full-width" style="min-height: 200px; position: relative; background-color: rgb(31, 31, 31); margin-top: 0px !important; margin-bottom: 0px !important; margin-left: 0px; margin-right: 0px; ">
         <div class="pbs-col" style="justify-content: center; padding-bottom: 50px; padding-top: 0px; padding-left: 0px !important; padding-right: 0px !important; margin: 0px !important;">
