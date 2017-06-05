@@ -1,7 +1,13 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Вопросы");
-?><?$APPLICATION->IncludeComponent(
+$APPLICATION->SetPageProperty("keywords_inner", "вопросы и ответы по обучению в автошколе Аспект, вопросы по обучению в автошколе, ответы по обучению в автошколе, ответы по обучению в автошколе Аспект, вопросы по обучению в автошколе Аспект");
+$APPLICATION->SetPageProperty("title", "Вопросы и ответы по обучению в автошколе Аспект | Автошкола в ЗАО Москвы");
+$APPLICATION->SetPageProperty("keywords", "вопросы и ответы по обучению в автошколе Аспект, вопросы по обучению в автошколе, ответы по обучению в автошколе, ответы по обучению в автошколе Аспект, вопросы по обучению в автошколе Аспект");
+$APPLICATION->SetPageProperty("description", "Ответы на вопросы по обучению в автошколе Аспект. Узнать подробнее о курсах обучения в автошколе Аспект. Задать вопрос по обучению в автошколе.");
+$APPLICATION->SetTitle("Вопросы и ответы");
+?>
+
+<?$APPLICATION->IncludeComponent(
 	"bitrix:support.faq",
 	"",
 	Array(

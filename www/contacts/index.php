@@ -1,5 +1,9 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("keywords_inner", "контакты автошколы Аспект, контакты автошколы, адрес автошколы, адрес автошколы Аспект, телефон автошколы, телефон автошколы Аспект");
+$APPLICATION->SetPageProperty("title", "Контакты автошколы Аспект в ЗАО Москвы (Проспект Вернадского и Славянский Бульвар)");
+$APPLICATION->SetPageProperty("keywords", "контакты автошколы Аспект, контакты автошколы, адрес автошколы, адрес автошколы Аспект, телефон автошколы, телефон автошколы Аспект");
+$APPLICATION->SetPageProperty("description", "Адрес автошколы у метро Проспект Вернадского и Славянский Бульвар. Позвоните в автошколу Авпект по номеру +7 (495) 782 30 25.");
 $APPLICATION->SetTitle("Контакты");
 ?><div itemscope itemtype="http://schema.org/Organization" class="pbs-main-wrapper">
     <p>
