@@ -1,5 +1,8 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("keywords_inner", "автошкола аспект Поиск");
+$APPLICATION->SetPageProperty("title", "Автошкола Аспект - Поиск");
+$APPLICATION->SetPageProperty("description", "Автошкола Аспект - Поиск");
 $APPLICATION->SetTitle("Поиск");
 ?>
 

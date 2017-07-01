@@ -6,9 +6,8 @@
 <?
 $array_ico = array(
     "/prices/" => "fa-cc-visa",
-    "/new_groups/" => "fa-calendar",
-    "/how_to_apply/" => "fa-comments",
-//    "/how_to_apply/" => "fa-id-card-o",
+    "/reviews/" => "fa-comments",
+    "/how_to_apply/" => "fa-calendar",
     "/schedule/" => "fa-clock-o",
     "/questions_and_answers/" => "fa-comments",
     "/contacts/" => "fa-phone",

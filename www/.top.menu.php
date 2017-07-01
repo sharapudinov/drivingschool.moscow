@@ -9,7 +9,7 @@ $aMenuLinks = Array(
 	),
 	Array(
 		"Новые группы", 
-		"/new_groups/", 
+		"/reviews/",
 		Array(), 
 		Array(), 
 		"" 

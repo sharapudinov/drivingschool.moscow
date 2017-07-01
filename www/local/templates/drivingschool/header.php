@@ -3,7 +3,7 @@
 IncludeTemplateLangFile(__FILE__);
 $curl = $APPLICATION->GetCurPage(); //$_SERVER["REQUEST_URI"];
 $side_bar_page = array(
-//    "/new_groups/",
+//    "/reviews/",
 //    "/schedule/"
 );
 
@@ -11,6 +11,15 @@ $side_bar_page = array(
 <!DOCTYPE html>
 <html lang="ru-RU" prefix="og: http://ogp.me/ns#">
 <head>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-W8P23T2');</script>
+    <!-- End Google Tag Manager -->
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?$APPLICATION->ShowTitle()?></title>
     <?$APPLICATION->ShowHead();?>
