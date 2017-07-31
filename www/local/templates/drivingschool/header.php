@@ -21,6 +21,13 @@ $side_bar_page = array(
     <!-- End Google Tag Manager -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?if($APPLICATION->GetCurDir()=="/login/") {
+        $APPLICATION->SetPageProperty("keywords_inner", "автошкола аспект авторизация");
+        $APPLICATION->SetPageProperty("title", "Автошкола Аспект - авторизация");
+        $APPLICATION->SetPageProperty("description", "Автошкола Аспект - авторизация");
+        $APPLICATION->SetTitle("Вход на сайт");
+    }?>
+
     <title><?$APPLICATION->ShowTitle()?></title>
     <?$APPLICATION->ShowHead();?>
 
@@ -67,7 +74,8 @@ $side_bar_page = array(
     <script type="text/javascript" src="<?=SITE_TEMPLATE_PATH?>/js/jquery.mobile.js"></script>
     <script type="text/javascript" src="<?=SITE_TEMPLATE_PATH?>/js/wds_frontend.js"></script>
     <script type="text/javascript" src="<?=SITE_TEMPLATE_PATH?>/js/wds_frontend.js"></script>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" src="<?=SITE_TEMPLATE_PATH?>/js/init.js"></script>
 </head>
 <body class="home page-template-default page page-id-2 layout-fullwidth blog-default position-fullwidth sidebar-1-4">
 <?$APPLICATION->ShowPanel();?>

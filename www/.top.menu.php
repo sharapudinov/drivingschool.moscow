@@ -1,6 +1,13 @@
 <?
 $aMenuLinks = Array(
 	Array(
+		"Об автошколе", 
+		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
 		"Цены", 
 		"/prices/", 
 		Array(), 
@@ -8,8 +15,8 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Новые группы", 
-		"/reviews/",
+		"Отзывы", 
+		"/reviews/", 
 		Array(), 
 		Array(), 
 		"" 
