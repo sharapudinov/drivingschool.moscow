@@ -54,14 +54,13 @@ $APPLICATION->SetTitle("Как записаться");
 
                     <p><label> <b>Ваше имя</b><br>
                             <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
-                    <p><label> <b>Ваш e-mail</b> (для учебных материалов)<br>
+                    <p><p><label> <b>Ваш телефон</b><br>
+                            <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span> </label></p>
+                    <label> <b>Ваш e-mail</b> (для учебных материалов)<br>
                             <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span> </label></p>
-                    <p><label> <b>Ваш телефон</b><br>
-                            <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span> </label></p>
-                    <p><label> <b>Пожелания</b> относительно филиала, графика обучения и т.д.<br>
+                                        <p><label> <b>Пожелания</b> относительно филиала, графика обучения и т.д.<br>
                             <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
                     <p>
-
                         <a href="javascript:void(0)" class="btn_feedback">Отправить</a>
                     </p>
                     <div class="wpcf7-response-output wpcf7-display-none"></div>
@@ -74,81 +73,4 @@ $APPLICATION->SetTitle("Как записаться");
 		</div>
 
     </div>
-
-    <script>
-        // Готовый паттерн для отправки формы
-        var send_request_callback = false;
-        $(document).on('click', '.btn_feedback', function(){
-            var
-                name = $("input[name=your-name]").val(),
-                email = $("input[name=your-email]").val(),
-                phone = $("input[name=your-subject]").val(),
-                text = $("textarea[name=your-message]).val();
-
-            var Errors = false;
-            var ErrorsList = "";
-            var namePattern = new RegExp(/[а-яА-Яa-zA-Z\\s]+/);
-
-            if(name=='' || namePattern.test(name)==false){
-                Errors=true;
-                ErrorsList+='Вы не ввели Имя или ввели Имя некорректно<br/>';
-                $("input[name=your-name]").css("border", "4px solid tomato")
-            } else {
-                $("input[name=your-name]").css("border", "1px solid #b7b7b7");
-            }
-            if(phone==''){
-                Errors=true;
-                ErrorsList+='Вы не ввели Контактный телефон!<br/>';
-                $("input[name=your-subject]").css("border", "4px solid tomato");
-            } else {
-                $("input[name=your-subject]").css("border", "1px solid #b7b7b7");
-            }
-
-
-            var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-            if(!pattern.test(email)){
-                Errors=true;
-                ErrorsList+='Вы не ввели E-mail или ввели его не верно!<br/>';
-                $("input[name=your-email]").css("border", "1px solid tomato");
-            } else {
-                $('input[name=your-email]').css("border", "1px solid #b7b7b7");
-            }
-
-            if(Errors){
-                $(".error_list").removeClass("dn")
-                $(".error_list span").text(ErrorsList)
-            }else{
-                $(".error_list").addClass("dn")
-                $(".error_list span").text("")
-
-                if(!send_request_callback)
-                {
-                    $.ajax({
-                        url:'/local/ajax/feedback.php',
-                        data:({ // Что отсылаем
-                            NAME:name,
-                            EMAIL:email,
-                            PHONE: phone,
-                            TEXT: text,
-                        }),
-                        async:false, // Ждем пока аякс придет и идем дальше
-                        type:'POST', // Каким методом
-                        dataType: 'html', // Тип получаемых данных
-                        success: function(ResultAjax){ // Действие при успешной обработке
-                            if(ResultAjax == "1"){
-                                $(".success_result").removeClass("dn")
-                                send_request_callback = true
-                            }else{
-                                $(".error_list").removeClass("dn")
-                                $(".error_list span")(ResultAjax)
-                            }
-                        }
-                    });
-                }
-            }
-
-            return false;
-        })
-
-    </script>
 </div><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
