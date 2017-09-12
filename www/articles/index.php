@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Структура и органы управления организацией");
+$APPLICATION->SetTitle("Статьи");
 ?>
 
 Text here....

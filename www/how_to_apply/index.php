@@ -32,7 +32,7 @@ $APPLICATION->SetTitle("Как записаться");
 	<p>
 		<strong>Важно:</strong> К практическим занятиям учащиеся допускаются только при наличии медицинской справки.
 	</p>
-	<div class="pbs-row" data-width="full-width" style="min-height: 582px; position: relative; margin-top: 55px; margin-left: 0px; margin-right: 0px; ">
+	<!--<div class="pbs-row" data-width="full-width" style="min-height: 582px; position: relative; margin-top: 55px; margin-left: 0px; margin-right: 0px; ">
 		<div class="pbs-col" style="flex-basis: 15.1777%; padding-right: 8px;">
 			<p data-placeholder="Click here to add text">
 			</p>
@@ -64,7 +64,8 @@ $APPLICATION->SetTitle("Как записаться");
                         <a href="javascript:void(0)" class="btn_feedback">Отправить</a>
                     </p>
                     <div class="wpcf7-response-output wpcf7-display-none"></div>
-                </form>
+                </form>>
+		<
 			</div>
 		</div>
 		<div class="pbs-col" style="flex-basis: 26.8668%;">
@@ -72,5 +73,15 @@ $APPLICATION->SetTitle("Как записаться");
 			</p>
 		</div>
 
-    </div>
+    </div>-->
+    <script id="bx24_form_inline" data-skip-moving="true">
+        (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+                (w[b].forms=w[b].forms||[]).push(arguments[0])};
+            if(w[b]['forms']) return;
+            s=d.createElement('script');r=1*new Date();s.async=1;s.src=u+'?'+r;
+            h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://drivingschool.bitrix24.ru/bitrix/js/crm/form_loader.js','b24form');
+
+        b24form({"id":"8","lang":"ru","sec":"0ww1jn","type":"inline"});
+    </script>
 </div><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
