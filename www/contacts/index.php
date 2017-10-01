@@ -10,56 +10,96 @@ $APPLICATION->SetTitle("Контакты");
 		 Позвоните или напишите нам и мы с удовольствием ответим на все вопросы.
 	</p>
 	<p>
-		Электронная почта: <a rel="nofollow" type="email" href="email:info@drivingschool.moscow" itemprop="email">info@drivingschool.moscow</a>
+		 Электронная почта: <a rel="nofollow" type="email" href="email:info@drivingschool.moscow" itemprop="email">info@drivingschool.moscow</a>
 	</p>
-	<div class="pbs-row" style="min-height: 200px; padding: 0px; padding: 0px !important; margin: 0px !important; margin-left: 0px !important;">
-		<div class="pbs-col" style="flex-basis: 41.0705%; padding-top: 20px; padding-right: 0px !important; padding-bottom: 0px !important; padding-left: 0px !important;; padding-right: 8px !important; margin: 0px !important;">
-			<h2> <span style="color:#19a4d6;"><i class="fa fa-map-marker" aria-hidden="true"></i> м. Проспект Вернадского</span> </h2>
-			<p>
-				Учебный центр <span itemprop="name">"Автошкола Аспект"</span>
-				находится в минуте ходьбы от метро, в бизнес-центре «Вернадский»<br>
- <a href="https://yandex.ru/maps/-/C6eNBNjc" target="_blank" rel="nofollow" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"> <span itemprop="streetAddress">Ул. Проспект Вернадского, дом 39</span>
-				Индекс: <span itemprop="postalCode"> 119415</span>
-				Город <span itemprop="addressLocality">Москва</span> </a>
-			</p>
-			<p>
-				Телефон: <a itemprop="telephone" href="tel:74957823025" style="margin-top: -1px !important;" rel="nofollow">+7 (495) 782 30 25</a>
-			</p>
-		</div>
-		<div class="pbs-col" style="flex-basis: 38.1344%; padding-top: 20px; padding-right: 0px !important; padding-bottom: 0px !important; padding-left: 0px !important; margin: 0px !important;">
-			<h2> <span style="color:#44a9e3;"><i class="fa fa-map-marker" aria-hidden="true"></i> Очаково-Матвеевское</span> </h2>
-			<p>
-				Учебный центр автошколы Аспект находится в 10 минутах от метро Славянский бульвар. Добраться до филиала можно, проехав 4 остановки на маршрутном такси 629м или на автобусе 641к.<br>
- <a itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" href="https://yandex.ru/maps/-/CVbU6BLJ" target="_blank" rel="nofollow"> <span itemprop="streetAddress"> ул. Веерная, д. 30, корп. 6</span> <span itemprop="postalCode">119501</span> <span itemprop="addressLocality">Москва</span> </a>
-			</p>
-			<p>
-				Телефон: <a itemprop="telephone" href="tel:74957823025" style="margin-top: -1px !important;" rel="nofollow">+7 (495) 782 30 25</a>
-			</p>
-			<p>
-			</p>
-		</div>
-	</div>
-	<div class="pbs-row" style="min-height: 200px; padding: 0px; padding: 0px !important; margin: 0px !important; margin-left: 0px !important;">
-		<div class="pbs-col" style="flex-basis: 38.1344%; padding-top: 20px; padding-right: 0px !important; padding-bottom: 0px !important; padding-left: 0px !important; margin: 0px !important;">
-			<h2> <span style="color:#44a9e3;"><i class="fa fa-map-marker" aria-hidden="true"></i> ТиНАО, поселок Коммунарка </span> </h2>
-			<p>
-				 Проезд от станции метро «Теплый стан» на автобусе, либо маршрутном такси № 895 до остановки «улица Александры Монаховой, 10» <br>
- <a itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" href="https://yandex.ru/maps/-/CBQNJXqv9A" target="_blank" rel="nofollow"> <span itemprop="streetAddress"> поселение Сосенское, пос. Коммунарка, улица Александры Монаховой, 10</span> <span itemprop="postalCode">108814</span> <span itemprop="addressLocality">Москва</span> </a>
-			</p>
-			<p>
-				Телефон: <a itemprop="telephone" href="tel:+79165038989" style="margin-top: -1px !important;" rel="nofollow">+7 (916) 503-89-89</a>
-			</p>
-		</div>
-		<div class="pbs-col" style="flex-basis: 38.1344%; padding-top: 20px; padding-right: 0px !important; padding-bottom: 0px !important; padding-left: 0px !important; margin: 0px !important;">
-			<h2> <span style="color:#44a9e3;"><i class="fa fa-map-marker" aria-hidden="true"></i> Ново-Переделкино</span> </h2>
-			<p>
-                Добраться до  <a title="Учебный центр автошколы Аспект" href="https://drivingschool.moscow/">учебного центра автошколы Аспект</a> можно: от м. Юго-Западная маршрутное такси 374, от м. Тропарево автобус 950, от станции Солнечная автобус 750, от станции Переделкино 809 автобус<br>
- <a itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" href="https://yandex.ru/maps/-/CVbU6BLJ" target="_blank" rel="nofollow"> <span itemprop="streetAddress">г. Москва, Боровское шоссе, д. 46</span> <span itemprop="postalCode">119634</span> <span itemprop="addressLocality">Москва</span> </a>
-			</p>
-			<p>
-				Телефон: <a itemprop="telephone" href="tel:79637823025" style="margin-top: -1px !important;" rel="nofollow">+7 (963) 782-30-25</a>
-			</p>
-		</div>
-	</div>
 </div>
- <br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+ &nbsp;<?$APPLICATION->IncludeComponent(
+	"bitrix:news",
+	"contacts",
+	array(
+		"ADD_ELEMENT_CHAIN" => "N",
+		"ADD_SECTIONS_CHAIN" => "Y",
+		"AJAX_MODE" => "N",
+		"AJAX_OPTION_ADDITIONAL" => "",
+		"AJAX_OPTION_HISTORY" => "N",
+		"AJAX_OPTION_JUMP" => "N",
+		"AJAX_OPTION_STYLE" => "Y",
+		"BROWSER_TITLE" => "-",
+		"CACHE_FILTER" => "N",
+		"CACHE_GROUPS" => "Y",
+		"CACHE_TIME" => "36000000",
+		"CACHE_TYPE" => "A",
+		"CHECK_DATES" => "Y",
+		"COMPOSITE_FRAME_MODE" => "A",
+		"COMPOSITE_FRAME_TYPE" => "AUTO",
+		"DETAIL_ACTIVE_DATE_FORMAT" => "d.m.Y",
+		"DETAIL_DISPLAY_BOTTOM_PAGER" => "Y",
+		"DETAIL_DISPLAY_TOP_PAGER" => "N",
+		"DETAIL_FIELD_CODE" => array(
+			0 => "",
+			1 => "",
+		),
+		"DETAIL_PAGER_SHOW_ALL" => "Y",
+		"DETAIL_PAGER_TEMPLATE" => "",
+		"DETAIL_PAGER_TITLE" => "Страница",
+		"DETAIL_PROPERTY_CODE" => array(
+			0 => "",
+			1 => "",
+		),
+		"DETAIL_SET_CANONICAL_URL" => "N",
+		"DISPLAY_BOTTOM_PAGER" => "Y",
+		"DISPLAY_NAME" => "Y",
+		"DISPLAY_TOP_PAGER" => "N",
+		"HIDE_LINK_WHEN_NO_DETAIL" => "N",
+		"IBLOCK_ID" => "9",
+		"IBLOCK_TYPE" => "filial",
+		"INCLUDE_IBLOCK_INTO_CHAIN" => "Y",
+		"LIST_ACTIVE_DATE_FORMAT" => "d.m.Y",
+		"LIST_FIELD_CODE" => array(
+			0 => "",
+			1 => "",
+		),
+		"LIST_PROPERTY_CODE" => array(
+			0 => "",
+			1 => "",
+		),
+		"MESSAGE_404" => "",
+		"META_DESCRIPTION" => "-",
+		"META_KEYWORDS" => "-",
+		"NEWS_COUNT" => "20",
+		"PAGER_BASE_LINK_ENABLE" => "N",
+		"PAGER_DESC_NUMBERING" => "N",
+		"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+		"PAGER_SHOW_ALL" => "N",
+		"PAGER_SHOW_ALWAYS" => "N",
+		"PAGER_TEMPLATE" => ".default",
+		"PAGER_TITLE" => "Новости",
+		"PREVIEW_TRUNCATE_LEN" => "",
+		"SEF_FOLDER" => "/contacts/",
+		"SEF_MODE" => "Y",
+		"SET_LAST_MODIFIED" => "N",
+		"SET_STATUS_404" => "N",
+		"SET_TITLE" => "Y",
+		"SHOW_404" => "N",
+		"SORT_BY1" => "ACTIVE_FROM",
+		"SORT_BY2" => "SORT",
+		"SORT_ORDER1" => "DESC",
+		"SORT_ORDER2" => "ASC",
+		"STRICT_SECTION_CHECK" => "N",
+		"USE_CATEGORIES" => "N",
+		"USE_FILTER" => "N",
+		"USE_PERMISSIONS" => "N",
+		"USE_RATING" => "N",
+		"USE_RSS" => "N",
+		"USE_SEARCH" => "N",
+		"COMPONENT_TEMPLATE" => "contacts",
+		"SEF_URL_TEMPLATES" => array(
+			"news" => "/contacts/",
+			"section" => "",
+			"detail" => "#ELEMENT_CODE#/",
+		)
+	),
+	false
+);?><br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+
+

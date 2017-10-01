@@ -1,0 +1,43 @@
+.dn{
+    display: none !important;
+}
+
+@media screen and (max-width: 750px) {
+    .pbs-col img{
+
+    }
+
+    .entry-content table th, .entry-content table td{
+        font-size: 14px !important;
+    }
+    .wpcf7 .wpcf7-form-control-wrap input{
+        margin-bottom: 0px;
+    }
+}
+
+.btn_feedback:hover{
+    background-color: #000;
+    color:#fff;
+}
+.btn_feedback{
+    color: #fff;
+    background-color: #282828;
+    border-color: #282828;
+    font-size: 14px;
+    font-size: 0.875rem;
+    display: inline-block;
+    max-width: 100%;
+    padding: 12px 29px;
+    font-weight: 900;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    vertical-align: top;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    background-color: transparent;
+    border: 2px solid;
+    box-shadow: none;
+    text-decoration: none !important;
+}
